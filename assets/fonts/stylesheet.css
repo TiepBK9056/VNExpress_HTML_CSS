@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Arial Th';
+    src: url('Arial/ArialTh.woff2') format('woff2'),
+        url('Arial/ArialTh.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('Arial/ArialNarrow.woff2') format('woff2'),
+        url('Arial/ArialNarrow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geo_Arial';
+    src: url('Arial/GeoArialItalic.woff2') format('woff2'),
+        url('Arial/GeoArialItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial GEO';
+    src: url('Arial/ArialGEOItalic.woff2') format('woff2'),
+        url('Arial/ArialGEOItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial MT';
+    src: url('Arial/ArialMTBlack.woff2') format('woff2'),
+        url('Arial/ArialMTBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial/ArialMT.woff2') format('woff2'),
+        url('Arial/ArialMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial GEO';
+    src: url('Arial/ArialGEOBold.woff2') format('woff2'),
+        url('Arial/ArialGEOBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
